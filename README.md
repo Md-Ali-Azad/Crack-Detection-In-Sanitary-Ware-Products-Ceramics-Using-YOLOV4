@@ -1,4 +1,4 @@
-# Detection-In-Sanitary-Ware-Products-Ceramics-Using-YOLOV4
+# Crack Detection In Sanitary-Ware Products (Ceramics) Using YOLOV4
 <p align="center">
     <img src="https://github.com/Md-Ali-Azad/Crack-Detection-In-Sanitary-Ware-Products-Ceramics-Using-YOLOV4/assets/42915707/8c78f65a-26a6-4089-a540-aada3f9b226f" width=350 height=310>
     <img src="https://github.com/Md-Ali-Azad/Crack-Detection-In-Sanitary-Ware-Products-Ceramics-Using-YOLOV4/assets/42915707/7be8ddc9-61a1-4fde-9e2c-d7541ef5ce85" width=350 height=310>
